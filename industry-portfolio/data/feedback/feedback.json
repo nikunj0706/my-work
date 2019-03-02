@@ -1,0 +1,28 @@
+{
+    "heading":"Enjoy our Client’s Feedback",
+    "subHeading":"Who are in extremely love with eco friendly system..",
+    "videoLink" : "https://www.youtube.com/watch?v=ARA0AxrnHdM",
+    "image" : "../images/feedback/play-btn.png",
+    "imageAlt" : "Play",
+    "feedbackList": [
+      {
+       "clientName" : "Fannie Rowe",
+       "clientReview" : "Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.",
+       "clientRating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star' ></span><span class='fa fa-star'></span>"
+
+      },
+      {
+        "clientName" : "Fannie Rowe",
+        "clientReview" : "Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.",
+        "clientRating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star'></span>"
+ 
+       },
+       {
+        "clientName" : "Fannie Rowe",
+        "clientReview" : "Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.",
+        "clientRating" : "<span class='fa fa-star checked'></span><span class='fa fa-star checked' ></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span><span class='fa fa-star checked'></span>"
+ 
+       }
+    ]
+  }
+  

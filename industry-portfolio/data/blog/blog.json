@@ -1,0 +1,55 @@
+{
+    "heading":"Latest posts from our Blog",
+    "subHeading":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br /> labore  et dolore magna aliqua.",
+    "blogList": [
+      {
+        "image": "../images/blog/b1.jpg",
+        "imageAlt": "Blog 1",
+        "blogger" : {
+            "bloggerImage" : "../images/blog/user.png",
+            "bloggerImageAlt" : "user",
+            "bloggerName" : "Mark Wiens",
+            "bloggerLink" : "#"
+        },
+        "date" : "13th Dec",
+        "like" : "15",
+        "comment" : "4",
+        "title": "Portable Fashion for young women",
+        "titleLink" : "#",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea."
+      },
+      {
+        "image": "../images/blog/b2.jpg",
+        "imageAlt": "Blog 2",
+        "blogger" : {
+            "bloggerImage" : "../images/blog/user.png",
+            "bloggerImageAlt" : "user",
+            "bloggerName" : "Mark Wiens",
+            "bloggerLink" : "#"
+        },
+        "date" : "13th Dec",
+        "like" : "15",
+        "comment" : "4",
+        "title": "Portable Fashion for young women",
+        "titleLink" : "#",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea."
+      },
+      {
+        "image": "../images/blog/b3.jpg",
+        "imageAlt": "Blog 3",
+        "blogger" : {
+            "bloggerImage" : "../images/blog/user.png",
+            "bloggerImageAlt" : "user",
+            "bloggerName" : "Mark Wiens",
+            "bloggerLink" : "#"
+        },
+        "date" : "13th Dec",
+        "like" : "15",
+        "comment" : "4",
+        "title": "Portable Fashion for young women",
+        "titleLink" : "#",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea."
+      }
+      
+    ]
+  }

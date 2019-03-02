@@ -1,0 +1,88 @@
+{
+    
+        "phoneNumber" : "+880 012 3654 896",
+        "email" : "support@colorlib.com",
+        "logoSocialNetwork":[
+            {"logoFontClass" : "fa fa-facebook", "link" : "#"},
+            {"logoFontClass" : "fa fa-twitter", "link" : "#"},
+            {"logoFontClass" : "fa fa-dribbble", "link" : "#"},
+            {"logoFontClass" : "fa fa-behance", "link" : "#"}
+        ],
+
+    "navabar" :{
+        "logo" : 
+        {   "logoPath" :"images/logo/logo.png",
+            "logoLink" : "#",
+            "logoAlt" : "Industry"
+        },
+        "navItems" :[
+            {"title" : "About", "link" : "#about"},
+            {"title" : "Services", "link" : "#service"},
+            {"title" : "Projects", "link" : "#project"},
+            {"title" : "Feedback", "link" : "#feedback"},
+            {"title" : "Contact", "link" : "#"}
+        ]
+        
+
+    },
+    "banner" : {
+        "heading" : "We’re Industrial solution",
+        "subHeading" : "Don’t look further, here is the key",
+        "excerpt" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et <br /> dolore magna aliqua. Ut enim ad minim.  sed do eiusmod tempor incididunt.",
+        "button" : {
+            "title" : "Get Started",
+            "link" : "#"
+        }
+    },
+    "about" : {
+        "heading" : " We’ve made a life <br />  that will change you",
+        "subHeading" : "Brand new app to blow your mind",
+        "description" : "<p className='sub'>We are here to listen from you deliver exellence</p><p className='pb-20'>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. </p>",
+        "button" : {
+            "title" : "Request Quote",
+            "link" : "#"
+        }
+        
+        
+
+    },
+    
+    "statistics" : [
+        {
+            "name" : "Projects Completed",
+            "total" : "2000"
+        },
+        {
+            "name" : "Total Employees",
+            "total" : "5500"
+        },
+        {
+            "name" : "Happy Clients",
+            "total" : "959"
+        },
+        {
+            "name" : "Tickets Submited",
+            "total" : "367"
+        }
+    ],
+    "footer" :  
+    {
+        "aboutUs" :
+        {
+            "title" : "About Us",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.",
+            "copyright" : "Copyright © All rights reserved | This template is made with <i class='fa fa-heart-o' aria-hidden='true' /> by <a href='https://colorlib.com' target='_blank'>Colorlib</a>"
+        },
+        "newsLetter" :
+        {
+            "newsTitle" : "Newsletter",
+            "newsSubTitle" : "Stay update with our latest"
+        },
+        "followUs" :
+        {
+            "socialTitle" : "Follow Us",
+            "socialSubTitle" : "Let us be social"
+        }
+    }
+
+}

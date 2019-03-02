@@ -1,0 +1,24 @@
+{
+  "heading":"Our Capturing Market Sectors",
+  "subHeading":" Who are in extremely love with eco friendly system..",
+  "servicesList": [
+    {
+      "image": "../images/services/s1.jpg",
+      "imageAlt": "Service 1",
+      "title": "Automotive Engineering",
+      "description": "inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct."
+    },
+    {
+      "image": "../images/services/s2.jpg",
+      "imageAlt": "Service 2",
+      "title": "Industrial Engineering",
+      "description": "inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct."
+    },
+    {
+      "image": "../images/services/s3.jpg",
+      "imageAlt": "Service 3",
+      "title": "Construction & Engineering",
+      "description": "inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct."
+    }
+  ]
+}

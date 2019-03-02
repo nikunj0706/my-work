@@ -1,0 +1,26 @@
+{
+    "heading":"Latest Finished Projects",
+    "subHeading":"Who are in extremely love with eco friendly system..",
+    "projectsList": [
+      {
+        "image": "../images/projects/p1.jpg",
+        "imageAlt": "Project 1",
+        "className" : "col-lg-8 col-md-8"
+      },
+      {
+        "image": "../images/projects/p2.jpg",
+        "imageAlt": "Project 2",
+        "className" : "col-lg-4 col-md-4"
+      },
+      {
+        "image": "../images/projects/p3.jpg",
+        "imageAlt": "Project 3",
+        "className" : "col-lg-6 col-md-6"
+      },
+      {
+        "image": "../images/projects/p4.jpg",
+        "imageAlt": "Project 4",
+        "className" : "col-lg-6 col-md-6"
+      }
+    ]
+  }
