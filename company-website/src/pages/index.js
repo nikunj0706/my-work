@@ -29,9 +29,10 @@ import "../static/css/custom.css"
 
 const IndexPage = () => (
  <div>
+  
 
 {/* loading */}
-{/* <div id="loading">
+{<div id="loading">
   <div id="loading-center">
     <div className="loader">
       <div className="cube">
@@ -46,7 +47,7 @@ const IndexPage = () => (
       </div>
     </div>
   </div>
-</div>  */}
+</div> }
 {/* loading End */}
 
 
@@ -57,7 +58,7 @@ const IndexPage = () => (
       <div className="row">
         <div className="col-sm-12">
           <nav className="navbar navbar-expand-lg navbar-light">
-            <a className="navbar-brand" href="index.html">
+            <a className="navbar-brand" href="#">
               <img className="img-fluid logo_img" id="logo_img" src= {logoFooter} alt="#" />
             </a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -372,8 +373,8 @@ const IndexPage = () => (
   <a className="top" id="top" href="#iq-home"> <i className="ion-ios-upload-outline" /> </a>
 </div>
 
-<ImportScripts />
 
+<ImportScripts />
 
 
 </div>
