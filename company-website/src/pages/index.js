@@ -279,7 +279,7 @@ const IndexPage = () => (
   <div className="row">
       <div className="col-sm-12">
         <div className="heading-title">
-          <h3 className="title iq-tw-7">TRIMSHA Projects</h3>
+          <h3 className="title iq-tw-7">TRYMSHA Projects</h3>
           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley,</p>
         </div>
       </div>
@@ -296,7 +296,7 @@ const IndexPage = () => (
                 <img className="img-fluid center-block" src= {blog1} alt="#" />
               </div>
               <div className="iq-blog-detail">
-                <div className="blog-title"> <a href="blog-single.html"><h5 className="iq-tw-6 iq-mb-10">Blogpost With Image</h5> </a> </div>
+                <div className="blog-title"> <a href="blog-single.html"><h5 className="iq-tw-6 iq-mb-10 text-center">Project 1</h5> </a> </div>
                 
               </div>
             </div>
@@ -311,7 +311,7 @@ const IndexPage = () => (
                 <img className="img-fluid center-block" src= {blog2} alt="#" />
               </div>
               <div className="iq-blog-detail">
-                <div className="blog-title"> <a href="blog-single.html"><h5 className="iq-tw-6 iq-mb-10">Blogpost With Image</h5> </a> </div>
+                <div className="blog-title"> <a href="blog-single.html"><h5 className="iq-tw-6 iq-mb-10 text-center">Project 2</h5> </a> </div>
                 </div>
             </div>
           </div>
@@ -324,7 +324,7 @@ const IndexPage = () => (
                 <img className="img-fluid center-block" src= {blog3} alt="#" />
               </div>
               <div className="iq-blog-detail">
-                <div className="blog-title"> <a href="blog-single.html"><h5 className="iq-tw-6 iq-mb-10">Blogpost With Image</h5> </a> </div> 
+                <div className="blog-title"> <a href="blog-single.html"><h5 className="iq-tw-6 iq-mb-10 text-center">Project 3</h5> </a> </div> 
               </div>
             </div>
           </div>
